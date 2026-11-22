@@ -1,0 +1,6 @@
+{
+  "name": "Fluxa",
+  "description": "Painel financeiro para gestão de boletos a pagar e receber, notas fiscais e autorização de serviços.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
